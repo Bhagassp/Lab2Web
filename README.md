@@ -146,7 +146,7 @@ echo "Selasa";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi IF](Screenshoot/kondisiif.png)
+![Kondisi IF](Screenshoot/Kondisiif.png)
 
 ## Kondisi Switch
 - Masukan kode berikut.
@@ -170,7 +170,7 @@ echo "Sabtu";
 
 - Maka, hasilnya akan seperti berikut.
 
-![Kondisi Switch](Screenshoot/kondisiswicth.png)
+![Kondisi Switch](Screenshoot/kondisiswitch.png)
 
 ## Perulangan FOR
 - Masukan kode berikut.
