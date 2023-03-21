@@ -67,7 +67,7 @@ echo "Nama : $nama";
 ?>
 ```
 
-![Variable PHP](Screenshoot/phpdasar.png)
+![Variable PHP](Screenshoot/phpdasar1.png)
 
 ## Predefine Variable $_GET
 <p>Buat file `latihan2.php` dalam direktori Lab2Web. lalu masukan kode berikut.
