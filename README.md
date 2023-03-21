@@ -1,6 +1,7 @@
 # Tugas Pemograman Web 2
 ## Profil
 
+| #               |                   |
 | --------------- | ----------------- |
 | **Nama**        | Bhagas Shaib P    |
 | **NIM**         | 312110406         |
@@ -59,8 +60,8 @@ Untuk membuat kode php, perlu menyiapkan web server dan interpreter PHP terlebih
 ```html
 <h2>Menggunakan Variable</h2>
 <?php
-$nim = "004285601";
-$nama = "Bilal";
+$nim = "31231318";
+$nama = "Bhagas";
 echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
